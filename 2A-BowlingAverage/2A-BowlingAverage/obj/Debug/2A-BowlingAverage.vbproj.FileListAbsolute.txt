@@ -1,0 +1,11 @@
+C:\Users\william\Desktop\VISB 3202\Projects\2A-BowlingAverage\2A-BowlingAverage\bin\Debug\2A-BowlingAverage.exe.config
+C:\Users\william\Desktop\VISB 3202\Projects\2A-BowlingAverage\2A-BowlingAverage\bin\Debug\2A-BowlingAverage.exe
+C:\Users\william\Desktop\VISB 3202\Projects\2A-BowlingAverage\2A-BowlingAverage\bin\Debug\2A-BowlingAverage.pdb
+C:\Users\william\Desktop\VISB 3202\Projects\2A-BowlingAverage\2A-BowlingAverage\bin\Debug\2A-BowlingAverage.xml
+C:\Users\william\Desktop\VISB 3202\Projects\2A-BowlingAverage\2A-BowlingAverage\obj\Debug\_2A_BowlingAverage.Resources.resources
+C:\Users\william\Desktop\VISB 3202\Projects\2A-BowlingAverage\2A-BowlingAverage\obj\Debug\2A-BowlingAverage.vbproj.GenerateResource.Cache
+C:\Users\william\Desktop\VISB 3202\Projects\2A-BowlingAverage\2A-BowlingAverage\obj\Debug\2A-BowlingAverage.exe
+C:\Users\william\Desktop\VISB 3202\Projects\2A-BowlingAverage\2A-BowlingAverage\obj\Debug\2A-BowlingAverage.xml
+C:\Users\william\Desktop\VISB 3202\Projects\2A-BowlingAverage\2A-BowlingAverage\obj\Debug\2A-BowlingAverage.pdb
+C:\Users\william\Desktop\VISB 3202\Projects\2A-BowlingAverage\2A-BowlingAverage\obj\Debug\2A-BowlingAverage.vbprojResolveAssemblyReference.cache
+C:\Users\william\Desktop\VISB 3202\Projects\2A-BowlingAverage\2A-BowlingAverage\obj\Debug\_2A_BowlingAverage.BowlingAverageForm.resources

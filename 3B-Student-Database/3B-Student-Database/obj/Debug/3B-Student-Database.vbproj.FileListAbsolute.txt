@@ -1,0 +1,15 @@
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3A-Student-Database\bin\Debug\3B-Student-Database.exe.config
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\bin\Debug\3B-Student-Database.exe.config
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\bin\Debug\StudData.accdb
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\bin\Debug\3B-Student-Database.exe
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\bin\Debug\3B-Student-Database.pdb
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\bin\Debug\3B-Student-Database.xml
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\obj\Debug\_3B_Student_Database.StudentDatabaseForm.resources
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\obj\Debug\_3B_Student_Database.Resources.resources
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\obj\Debug\_3B_Student_Database.StudentDatagridForm.resources
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\obj\Debug\_3B_Student_Database.StudentRecordForm.resources
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\obj\Debug\3B-Student-Database.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\obj\Debug\3B-Student-Database.exe
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\obj\Debug\3B-Student-Database.xml
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\obj\Debug\3B-Student-Database.pdb
+\\vmware-host\Shared Folders\School\VISB\Projects\3B-Student-Database\3B-Student-Database\obj\Debug\_3B_Student_Database.StudentNumberSearchForm.resources

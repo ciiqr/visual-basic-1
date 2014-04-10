@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+2B-BowlingTeamAverage
+</name>
+</assembly>
+<members>
+<member name="P:_2B_BowlingTeamAverage.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:_2B_BowlingTeamAverage.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:_2B_BowlingTeamAverage.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:_2B_BowlingTeamAverage.BowlingTeamAverageForm.BowlingTeamAverageForm_Load(System.Object,System.EventArgs)">
+	<summary>
+ Initalizes Some Properties
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_2B_BowlingTeamAverage.BowlingTeamAverageForm.btnEnterScore_Click(System.Object,System.EventArgs)">
+	<summary>
+ Attempts to enter a game score, if it is the last score(5th) it and calculates the average of the bowler and moves on to the next (If the last bowler then displayes the team average)
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_2B_BowlingTeamAverage.BowlingTeamAverageForm.btnResetPlayer_Click(System.Object,System.EventArgs)">
+	<summary>
+ Clears the scores of the current player
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_2B_BowlingTeamAverage.BowlingTeamAverageForm.btnResetTeam_Click(System.Object,System.EventArgs)">
+	<summary>
+ Reset the form to it's original state
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_2B_BowlingTeamAverage.BowlingTeamAverageForm.btnExit_Click(System.Object,System.EventArgs)">
+	<summary>
+ Closes this form
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

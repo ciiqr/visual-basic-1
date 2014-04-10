@@ -1,0 +1,66 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+1A-IceCream
+</name>
+</assembly>
+<members>
+<member name="P:_1A_IceCream.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:_1A_IceCream.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:_1A_IceCream.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:_1A_IceCream.IceCreamForm.tryGetNumberOfScoops(System.Int32@)">
+	<summary>
+ Trys to retrieve the Number of Scoops
+ </summary>
+	<param name="scoops"></param>
+	<returns>Whether a value was recieved</returns>
+	<remarks></remarks>
+</member><member name="M:_1A_IceCream.IceCreamForm.tryGetNumberOfToppings(System.Int32@)">
+	<summary>
+ Trys to retrieve the Number of Toppings
+ </summary>
+	<param name="toppings"></param>
+	<returns>Whether a value was recieved</returns>
+	<remarks></remarks>
+</member><member name="M:_1A_IceCream.IceCreamForm.tryGetFlavour(System.Int32@)">
+	<summary>
+ Trys to retrieve the Flavour
+ </summary>
+	<param name="flavour"></param>
+	<returns>Whether a value was recieved</returns>
+	<remarks></remarks>
+</member><member name="M:_1A_IceCream.IceCreamForm.btnCalculate_Click(System.Object,System.EventArgs)">
+	<summary>
+ Calculates the price with the current options, if a required option is not set then a MessageBox displays an error
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks>Handles the btnCalculate Click Event</remarks>
+</member><member name="M:_1A_IceCream.IceCreamForm.btnClear_Click(System.Object,System.EventArgs)">
+	<summary>
+ Sets the form to its initial state and returns focus to the Scoops TextBox
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks>Handles the btnClear Click Event</remarks>
+</member><member name="M:_1A_IceCream.IceCreamForm.btnExit_Click(System.Object,System.EventArgs)">
+	<summary>
+ Close the Form, Thus Exiting the Application
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks>Handles the btnExit Click Event</remarks>
+</member>
+</members>
+</doc>

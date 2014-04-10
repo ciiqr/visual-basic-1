@@ -1,0 +1,13 @@
+C:\Users\william\Desktop\VISB 3202\Projects\3A-Student-Database\3A-Student-Database\bin\Debug\3A-Student-Database.exe.config
+C:\Users\william\Desktop\VISB 3202\Projects\3A-Student-Database\3A-Student-Database\bin\Debug\StudData.accdb
+C:\Users\william\Desktop\VISB 3202\Projects\3A-Student-Database\3A-Student-Database\bin\Debug\3A-Student-Database.exe
+C:\Users\william\Desktop\VISB 3202\Projects\3A-Student-Database\3A-Student-Database\bin\Debug\3A-Student-Database.pdb
+C:\Users\william\Desktop\VISB 3202\Projects\3A-Student-Database\3A-Student-Database\bin\Debug\3A-Student-Database.xml
+C:\Users\william\Desktop\VISB 3202\Projects\3A-Student-Database\3A-Student-Database\obj\Debug\_3A_Student_Database.StudentDatabaseForm.resources
+C:\Users\william\Desktop\VISB 3202\Projects\3A-Student-Database\3A-Student-Database\obj\Debug\_3A_Student_Database.Resources.resources
+C:\Users\william\Desktop\VISB 3202\Projects\3A-Student-Database\3A-Student-Database\obj\Debug\_3A_Student_Database.StudentDatagridForm.resources
+C:\Users\william\Desktop\VISB 3202\Projects\3A-Student-Database\3A-Student-Database\obj\Debug\3A-Student-Database.vbproj.GenerateResource.Cache
+C:\Users\william\Desktop\VISB 3202\Projects\3A-Student-Database\3A-Student-Database\obj\Debug\3A-Student-Database.exe
+C:\Users\william\Desktop\VISB 3202\Projects\3A-Student-Database\3A-Student-Database\obj\Debug\3A-Student-Database.xml
+C:\Users\william\Desktop\VISB 3202\Projects\3A-Student-Database\3A-Student-Database\obj\Debug\3A-Student-Database.pdb
+C:\Users\william\Desktop\VISB 3202\Projects\3A-Student-Database\3A-Student-Database\obj\Debug\_3A_Student_Database.StudentRecordForm.resources

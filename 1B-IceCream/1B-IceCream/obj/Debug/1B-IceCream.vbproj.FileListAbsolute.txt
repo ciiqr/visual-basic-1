@@ -1,0 +1,11 @@
+C:\Users\william\Desktop\VISB 3202\Projects\1B-IceCream\1A-IceCream\bin\Debug\1B-IceCream.exe.config
+C:\Users\william\Desktop\VISB 3202\Projects\1B-IceCream\1B-IceCream\bin\Debug\1B-IceCream.exe.config
+C:\Users\william\Desktop\VISB 3202\Projects\1B-IceCream\1B-IceCream\bin\Debug\1B-IceCream.exe
+C:\Users\william\Desktop\VISB 3202\Projects\1B-IceCream\1B-IceCream\bin\Debug\1B-IceCream.pdb
+C:\Users\william\Desktop\VISB 3202\Projects\1B-IceCream\1B-IceCream\bin\Debug\1B-IceCream.xml
+C:\Users\william\Desktop\VISB 3202\Projects\1B-IceCream\1B-IceCream\obj\Debug\_1B_IceCream.IceCreamForm.resources
+C:\Users\william\Desktop\VISB 3202\Projects\1B-IceCream\1B-IceCream\obj\Debug\_1B_IceCream.Resources.resources
+C:\Users\william\Desktop\VISB 3202\Projects\1B-IceCream\1B-IceCream\obj\Debug\1B-IceCream.vbproj.GenerateResource.Cache
+C:\Users\william\Desktop\VISB 3202\Projects\1B-IceCream\1B-IceCream\obj\Debug\1B-IceCream.exe
+C:\Users\william\Desktop\VISB 3202\Projects\1B-IceCream\1B-IceCream\obj\Debug\1B-IceCream.xml
+C:\Users\william\Desktop\VISB 3202\Projects\1B-IceCream\1B-IceCream\obj\Debug\1B-IceCream.pdb

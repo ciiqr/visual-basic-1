@@ -1,0 +1,86 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+1B-IceCream
+</name>
+</assembly>
+<members>
+<member name="M:_1B_IceCream.IceCreamForm.tryGetNumberOfScoops(System.Int32@)">
+	<summary>
+ Trys to retrieve the Number of Scoops
+ </summary>
+	<param name="scoops"></param>
+	<returns>Whether a value was recieved</returns>
+	<remarks></remarks>
+</member><member name="M:_1B_IceCream.IceCreamForm.getNumberOfToppings">
+	<summary>
+ Retrieves the Number of Toppings
+ </summary>
+	<returns>The selected number of toppings</returns>
+	<remarks></remarks>
+</member><member name="M:_1B_IceCream.IceCreamForm.HST(System.Double)">
+	<summary>
+ Calculates the HST on the price
+ </summary>
+	<param name="price"></param>
+	<returns>The HST on the price</returns>
+	<remarks></remarks>
+</member><member name="M:_1B_IceCream.IceCreamForm.IceCreamForm_Load(System.Object,System.EventArgs)">
+	<summary>
+ Initialize Form Properties
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_1B_IceCream.IceCreamForm.btnCalculate_Click(System.Object,System.EventArgs)">
+	<summary>
+ Calculates the price with the current options, if a required option is not set then a MessageBox displays an error
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks>Handles the btnCalculate Click Event</remarks>
+</member><member name="M:_1B_IceCream.IceCreamForm.btnClear_Click(System.Object,System.EventArgs)">
+	<summary>
+ Sets the form to its initial state and returns focus to the Scoops TextBox
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks>Handles the btnClear Click Event</remarks>
+</member><member name="M:_1B_IceCream.IceCreamForm.btnExit_Click(System.Object,System.EventArgs)">
+	<summary>
+ Close the Form
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks>Handles the btnExit Click Event</remarks>
+</member><member name="M:_1B_IceCream.IceCreamForm.txtScoops_LostFocus(System.Object,System.EventArgs)">
+	<summary>
+ Validates scoops input, displays a message if not valid (Except for special cases, ie. btnExit)
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_1B_IceCream.IceCreamForm.inputChanged(System.Object,System.EventArgs)">
+	<summary>
+ When the User changes any of the options we clear any previous output
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks>Handles changes of scoops, flavour, number of toppings, extras(nuts and whipped cream)</remarks>
+</member><member name="P:_1B_IceCream.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:_1B_IceCream.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:_1B_IceCream.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

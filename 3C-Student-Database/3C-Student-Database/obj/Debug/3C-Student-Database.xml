@@ -1,0 +1,328 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+3C-Student-Database
+</name>
+</assembly>
+<members>
+<member name="T:_3C_Student_Database.StudDataDataSet.tblStudentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:_3C_Student_Database.StudDataDataSet.tblStudentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:_3C_Student_Database.StudDataDataSet.tblStudentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:_3C_Student_Database.StudDataDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:_3C_Student_Database.StudDataDataSetTableAdapters.tblStudentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:_3C_Student_Database.StudDataDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(_3C_Student_Database.StudDataDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:_3C_Student_Database.StudDataDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(_3C_Student_Database.StudDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:_3C_Student_Database.StudDataDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(_3C_Student_Database.StudDataDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:_3C_Student_Database.StudDataDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:_3C_Student_Database.StudDataDataSetTableAdapters.TableAdapterManager.UpdateAll(_3C_Student_Database.StudDataDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:_3C_Student_Database.StudDataDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:_3C_Student_Database.StudDataDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:_3C_Student_Database.StudDataDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:_3C_Student_Database.StudentDatagridForm.TblStudentsBindingNavigatorSaveItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Sends changed data to the database, Irrelevant in Revision 3A due to the fact that nothing is editable
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentDatagridForm.StudentDatagridForm_Load(System.Object,System.EventArgs)">
+	<summary>
+ Loads data into the table
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentDatagridForm.btnGoBack_Click(System.Object,System.EventArgs)">
+	<summary>
+ Closes the current form, Thus going back to the calling form
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentDatagridForm.rdoSortByNumber_CheckedChanged(System.Windows.Forms.RadioButton,System.EventArgs)">
+	<summary>
+ Changes the datagrid sort order to Student Number
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentDatagridForm.rdoSortByName_CheckedChanged(System.Windows.Forms.RadioButton,System.EventArgs)">
+	<summary>
+ Changes the datagrid sort order to Student Name
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentDatagridForm.rdoSortByMajor_CheckedChanged(System.Windows.Forms.RadioButton,System.EventArgs)">
+	<summary>
+ Changes the datagrid sort order to Student Major
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentDatabaseForm.btnBrowseDataGrid_Click(System.Object,System.EventArgs)">
+	<summary>
+ Displays the Student Database in a DataGrid within a seperate Form
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentDatabaseForm.btnBrowseRecordByRecord_Click(System.Object,System.EventArgs)">
+	<summary>
+ Displays the Student Database one record at a time within a seperate Form
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentDatabaseForm.btnSearchStudentNumber_Click(System.Object,System.EventArgs)">
+	<summary>
+ Display Student Number Search within a seperate Form
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentDatabaseForm.btnNewChangeStudent_Click(System.Object,System.EventArgs)">
+	<summary>
+ Display Add/Change Student within a seperate Form
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentDatabaseForm.btnExit_Click(System.Object,System.EventArgs)">
+	<summary>
+ Closes this Form, Thus Exiting the Application
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentAddChangeForm.restoreToDefaultState">
+	<summary>
+ Restores the form to it's default state
+ </summary>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentAddChangeForm.btnSearch_Click(System.Object,System.EventArgs)">
+	<summary>
+ Tries to find the entry for the entered student number, displays it if it finds it, otherwise displays appropriate error messages
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentAddChangeForm.btnAddNew_Click(System.Object,System.EventArgs)">
+	<summary>
+ Allows the user to enter in a new record
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentAddChangeForm.btnSave_Click(System.Object,System.EventArgs)">
+	<summary>
+ Saves new record OR changes to existing record
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentAddChangeForm.btnCancel_Click(System.Object,System.EventArgs)">
+	<summary>
+ Cancels changes
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentAddChangeForm.btnGoBack_Click(System.Object,System.EventArgs)">
+	<summary>
+ Closes the current form, Thus going back to the calling form
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentNumberSearchForm.btnSearch_Click(System.Object,System.EventArgs)">
+	<summary>
+ Tries to find the entry for the entered student number, displays it if it finds it, otherwise displays appropriate error messages
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentNumberSearchForm.btnGoBack_Click(System.Object,System.EventArgs)">
+	<summary>
+ Closes the current form, Thus going back to the calling form
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentNumberSearchForm.TblStudentsBindingNavigatorSaveItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Sends changed data to the database, Irrelevant in Revision 3A due to the fact that nothing is editable
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentNumberSearchForm.StudentNumberSearchForm_Load(System.Object,System.EventArgs)">
+	<summary>
+ Loads data into the table
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="P:_3C_Student_Database.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:_3C_Student_Database.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:_3C_Student_Database.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:_3C_Student_Database.DatabaseValidation.StudentNumber(System.String,System.String@)">
+	<summary>
+ Validates a Student Number
+ </summary>
+	<param name="text"></param>
+	<param name="errors"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.DatabaseValidation.StudentName(System.String,System.String@)">
+	<summary>
+ Validates a Student Name
+ </summary>
+	<param name="text"></param>
+	<param name="errors"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.DatabaseValidation.PhoneNumber(System.String,System.String@)">
+	<summary>
+ Validates a Phone Number
+ </summary>
+	<param name="text"></param>
+	<param name="errors"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.DatabaseValidation.EnrollDate(System.String,System.String@)">
+	<summary>
+ Validates an Enroll Date
+ </summary>
+	<param name="text"></param>
+	<param name="errors"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.DatabaseValidation.StudentLoan(System.String,System.String@)">
+	<summary>
+ Validates a Student Loan
+ </summary>
+	<param name="text"></param>
+	<param name="errors"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.DatabaseValidation.Major(System.String,System.String@)">
+	<summary>
+ Validates a Major
+ </summary>
+	<param name="text"></param>
+	<param name="errors"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:_3C_Student_Database.DatabaseValidation">
+	<summary>
+ Class with static methods for validating input for the StudData Database
+ </summary>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentRecordForm.TblStudentsBindingNavigatorSaveItem_Click(System.Object,System.EventArgs)">
+	<summary>
+ Sends changed data to the database, Irrelevant in Revision 3A due to the fact that nothing is editable
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentRecordForm.StudentRecordForm_Load(System.Object,System.EventArgs)">
+	<summary>
+ Loads data into the table
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentRecordForm.btnGoBack_Click(System.Object,System.EventArgs)">
+	<summary>
+ Closes the current form, Thus going back to the calling form
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentRecordForm.btnGoToStart_Click(System.Object,System.EventArgs)">
+	<summary>
+ Navigates to the first record
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentRecordForm.btnGoToPrevious_Click(System.Object,System.EventArgs)">
+	<summary>
+ Navigates to the previous record
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentRecordForm.btnGoToNext_Click(System.Object,System.EventArgs)">
+	<summary>
+ Navigates to the next record
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentRecordForm.btnGoToEnd_Click(System.Object,System.EventArgs)">
+	<summary>
+ Navigates to the last record
+ </summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+	<remarks></remarks>
+</member><member name="M:_3C_Student_Database.StudentRecordForm.PositionChanged">
+	<summary>
+ Enable/Disable all applicable buttons, display the current record number &amp; total number of records, to conform to the current navigated state
+ </summary>
+	<remarks>Called when the navigation buttons are pressed</remarks>
+</member>
+</members>
+</doc>
