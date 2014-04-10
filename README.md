@@ -1,4 +1,4 @@
-These are my solutions to the Labs & Tests for the visual basic I course at Durham College.
+These are my solutions to the Labs & Tests for the Visual Basic I course at Durham College.
 
 **Notable Aspects**
 
