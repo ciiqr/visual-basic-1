@@ -12,3 +12,6 @@
 \\vmware-host\Shared Folders\School\VISB\Projects\4-Text-Editor\4-Text-Editor\obj\Debug\_4_Text_Editor.AboutForm.resources
 \\vmware-host\Shared Folders\School\VISB\Projects\4-Text-Editor\4-Text-Editor\obj\Debug\_4_Text_Editor.IndexForm.resources
 \\vmware-host\Shared Folders\School\VISB\Projects\4-Text-Editor\4-Text-Editor\obj\Debug\4-Text-Editor.vbprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\School\VISB\4-Text-Editor\4-Text-Editor\obj\Debug\4-Text-Editor.exe
+\\vmware-host\Shared Folders\School\VISB\4-Text-Editor\4-Text-Editor\obj\Debug\4-Text-Editor.xml
+\\vmware-host\Shared Folders\School\VISB\4-Text-Editor\4-Text-Editor\obj\Debug\4-Text-Editor.pdb

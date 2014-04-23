@@ -1,0 +1,23 @@
+D:\My Documents\Visual Studio 2010\Projects\Test2_2013Starter\Test2_2013Starter\obj\x86\Debug\Test2_2013Starter.frmTest2.resources
+D:\My Documents\Visual Studio 2010\Projects\Test2_2013Starter\Test2_2013Starter\obj\x86\Debug\Test2_2013Starter.Resources.resources
+D:\My Documents\Visual Studio 2010\Projects\Test2_2013Starter\Test2_2013Starter\obj\x86\Debug\Test2_2014Starter.vbproj.GenerateResource.Cache
+D:\My Documents\Visual Studio 2010\Projects\Test2_2013Starter\Test2_2013Starter\bin\Debug\Test2_2013Starter.exe
+D:\My Documents\Visual Studio 2010\Projects\Test2_2013Starter\Test2_2013Starter\bin\Debug\Test2_2013Starter.pdb
+D:\My Documents\Visual Studio 2010\Projects\Test2_2013Starter\Test2_2013Starter\bin\Debug\Test2_2013Starter.xml
+D:\My Documents\Visual Studio 2010\Projects\Test2_2013Starter\Test2_2013Starter\obj\x86\Debug\Test2_2013Starter.exe
+D:\My Documents\Visual Studio 2010\Projects\Test2_2013Starter\Test2_2013Starter\obj\x86\Debug\Test2_2013Starter.xml
+D:\My Documents\Visual Studio 2010\Projects\Test2_2013Starter\Test2_2013Starter\obj\x86\Debug\Test2_2013Starter.pdb
+D:\My Documents\Visual Basic January 2014\Test #2 Setup 2014\Test2_2014Starter\Test2_2014Starter\obj\x86\Debug\Test2_2013Starter.exe
+D:\My Documents\Visual Basic January 2014\Test #2 Setup 2014\Test2_2014Starter\Test2_2014Starter\obj\x86\Debug\Test2_2013Starter.xml
+D:\My Documents\Visual Basic January 2014\Test #2 Setup 2014\Test2_2014Starter\Test2_2014Starter\obj\x86\Debug\Test2_2013Starter.pdb
+\\vmware-host\Shared Folders\School\VISB\Projects\Test2_2014Starter\Test2_2014Starter\obj\x86\Debug\Test2_2013Starter.exe
+\\vmware-host\Shared Folders\School\VISB\Projects\Test2_2014Starter\Test2_2014Starter\obj\x86\Debug\Test2_2013Starter.xml
+\\vmware-host\Shared Folders\School\VISB\Projects\Test2_2014Starter\Test2_2014Starter\obj\x86\Debug\Test2_2013Starter.pdb
+\\vmware-host\Shared Folders\School\VISB\Projects\Test2_2014Starter\Test2_2014Starter\bin\Debug\VB_Test2.accdb
+\\vmware-host\Shared Folders\School\VISB\Projects\Test2_2014Starter\Test2_2014Starter\bin\Debug\Test2_2013Starter.exe.config
+\\vmware-host\Shared Folders\School\VISB\Projects\Test2_2014Starter\Test2_2014Starter\bin\Debug\Test2_2013Starter.exe
+\\vmware-host\Shared Folders\School\VISB\Projects\Test2_2014Starter\Test2_2014Starter\bin\Debug\Test2_2013Starter.pdb
+\\vmware-host\Shared Folders\School\VISB\Projects\Test2_2014Starter\Test2_2014Starter\bin\Debug\Test2_2013Starter.xml
+\\vmware-host\Shared Folders\School\VISB\Projects\Test2_2014Starter\Test2_2014Starter\obj\x86\Debug\Test2_2013Starter.frmTest2.resources
+\\vmware-host\Shared Folders\School\VISB\Projects\Test2_2014Starter\Test2_2014Starter\obj\x86\Debug\Test2_2013Starter.Resources.resources
+\\vmware-host\Shared Folders\School\VISB\Projects\Test2_2014Starter\Test2_2014Starter\obj\x86\Debug\Test2_2014Starter.vbproj.GenerateResource.Cache

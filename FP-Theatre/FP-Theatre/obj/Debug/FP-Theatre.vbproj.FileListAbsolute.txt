@@ -10,3 +10,15 @@
 \\vmware-host\Shared Folders\School\VISB\Projects\FP-Theatre\FP-Theatre\obj\Debug\FP-Theatre.pdb
 \\vmware-host\Shared Folders\School\VISB\Projects\FP-Theatre\FP-Theatre\obj\Debug\_FP_Theatre.AddPerformanceForm.resources
 \\vmware-host\Shared Folders\School\VISB\Projects\FP-Theatre\FP-Theatre\obj\Debug\_FP_Theatre.SeatPurchaseForm.resources
+\\vmware-host\Shared Folders\School\VISB\FP-Theatre\FP-Theatre\bin\Debug\FP-Theatre.exe.config
+\\vmware-host\Shared Folders\School\VISB\FP-Theatre\FP-Theatre\obj\Debug\FP-Theatre.exe
+\\vmware-host\Shared Folders\School\VISB\FP-Theatre\FP-Theatre\obj\Debug\FP-Theatre.xml
+\\vmware-host\Shared Folders\School\VISB\FP-Theatre\FP-Theatre\obj\Debug\FP-Theatre.pdb
+\\vmware-host\Shared Folders\School\VISB\FP-Theatre\FP-Theatre\bin\Debug\FP-Theatre.exe
+\\vmware-host\Shared Folders\School\VISB\FP-Theatre\FP-Theatre\bin\Debug\FP-Theatre.pdb
+\\vmware-host\Shared Folders\School\VISB\FP-Theatre\FP-Theatre\bin\Debug\FP-Theatre.xml
+\\vmware-host\Shared Folders\School\VISB\FP-Theatre\FP-Theatre\obj\Debug\_FP_Theatre.AddPerformanceForm.resources
+\\vmware-host\Shared Folders\School\VISB\FP-Theatre\FP-Theatre\obj\Debug\_FP_Theatre.SeatPurchaseForm.resources
+\\vmware-host\Shared Folders\School\VISB\FP-Theatre\FP-Theatre\obj\Debug\_FP_Theatre.TheatreSeatingForm.resources
+\\vmware-host\Shared Folders\School\VISB\FP-Theatre\FP-Theatre\obj\Debug\_FP_Theatre.Resources.resources
+\\vmware-host\Shared Folders\School\VISB\FP-Theatre\FP-Theatre\obj\Debug\FP-Theatre.vbproj.GenerateResource.Cache

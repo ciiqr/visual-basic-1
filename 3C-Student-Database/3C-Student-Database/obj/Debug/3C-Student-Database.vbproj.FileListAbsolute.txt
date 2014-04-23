@@ -14,3 +14,7 @@
 \\vmware-host\Shared Folders\School\VISB\Projects\3C-Student-Database\3C-Student-Database\obj\Debug\3C-Student-Database.pdb
 \\vmware-host\Shared Folders\School\VISB\Projects\3C-Student-Database\3C-Student-Database\obj\Debug\_3C_Student_Database.StudentAddChangeForm.resources
 \\vmware-host\Shared Folders\School\VISB\Projects\3C-Student-Database\3C-Student-Database\obj\Debug\3C-Student-Database.vbprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\School\VISB\3C-Student-Database\3C-Student-Database\bin\Debug\3C-Student-Database.exe.config
+\\vmware-host\Shared Folders\School\VISB\3C-Student-Database\3C-Student-Database\obj\Debug\3C-Student-Database.exe
+\\vmware-host\Shared Folders\School\VISB\3C-Student-Database\3C-Student-Database\obj\Debug\3C-Student-Database.xml
+\\vmware-host\Shared Folders\School\VISB\3C-Student-Database\3C-Student-Database\obj\Debug\3C-Student-Database.pdb
